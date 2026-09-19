@@ -1,0 +1,1542 @@
+20-09-2026
+[ ] Revise Python functions
+[ ] Practice 5 function problems
+[ ] Revise Linux navigation commands
+
+21-09-2026
+[ ] Revise lists, tuples and dictionaries
+[ ] Practice 5 problems
+[ ] Write 1 small Python program
+
+22-09-2026
+[ ] Revise OOP basics
+[ ] Create 2 simple classes
+[ ] Practice 3 OOP problems
+
+23-09-2026
+[ ] Learn iterators
+[ ] Learn generators
+[ ] Write 3 examples
+
+24-09-2026
+[ ] Learn decorators
+[ ] Learn context managers
+[ ] Write 2 examples
+
+25-09-2026
+[ ] Learn Linux processes
+[ ] Learn ps, top and htop
+[ ] Practice process commands
+
+26-09-2026
+[ ] Weekly revision
+[ ] Solve 10 Python problems
+[ ] Review Linux commands
+
+27-09-2026
+[ ] Learn vectors
+[ ] Vector addition and subtraction
+[ ] Practice with NumPy
+
+28-09-2026
+[ ] Vector magnitude
+[ ] Unit vectors
+[ ] Dot product
+[ ] Practice 5 problems
+
+29-09-2026
+[ ] Learn matrices
+[ ] Matrix dimensions
+[ ] Matrix addition and subtraction
+
+30-09-2026
+[ ] Matrix multiplication
+[ ] Practice matrix multiplication
+[ ] Implement with NumPy
+
+01-10-2026
+[ ] Learn transpose
+[ ] Learn identity matrix
+[ ] Learn inverse
+
+02-10-2026
+[ ] Linear transformations
+[ ] Matrix representation
+[ ] Practice examples
+
+03-10-2026
+[ ] Revise vectors and matrices
+[ ] Solve 10 problems
+[ ] NumPy practice
+
+04-10-2026
+[ ] Learn limits
+[ ] Learn continuity
+[ ] Practice basic limits
+
+05-10-2026
+[ ] Learn derivatives
+[ ] Derivative rules
+[ ] Practice 10 derivatives
+
+06-10-2026
+[ ] Learn partial derivatives
+[ ] Practice partial derivatives
+[ ] Understand multivariable functions
+
+07-10-2026
+[ ] Learn chain rule
+[ ] Practice chain rule
+[ ] Relate chain rule to neural networks
+
+08-10-2026
+[ ] Learn gradients
+[ ] Gradient vectors
+[ ] Practice gradient problems
+
+09-10-2026
+[ ] Numerical differentiation
+[ ] Derivatives with Python
+[ ] Practice 3 examples
+
+10-10-2026
+[ ] Revise calculus
+[ ] Solve 15 problems
+[ ] Review mistakes
+
+11-10-2026
+[ ] Probability basics
+[ ] Sample spaces
+[ ] Events
+[ ] Practice problems
+
+12-10-2026
+[ ] Conditional probability
+[ ] Bayes theorem
+[ ] Practice 10 problems
+
+13-10-2026
+[ ] Random variables
+[ ] Discrete vs continuous
+[ ] Practice examples
+
+14-10-2026
+[ ] Probability distributions
+[ ] Normal distribution
+[ ] Binomial distribution
+
+15-10-2026
+[ ] Mean
+[ ] Variance
+[ ] Standard deviation
+[ ] Practice problems
+
+16-10-2026
+[ ] Correlation
+[ ] Covariance
+[ ] Calculate with NumPy
+
+17-10-2026
+[ ] Revise probability and statistics
+[ ] Solve 15 problems
+[ ] Review mistakes
+
+18-10-2026
+[ ] Revise linear algebra
+[ ] Revise calculus
+[ ] Revise probability
+
+19-10-2026
+[ ] Complete foundation mini-project
+[ ] Use NumPy
+[ ] Write README
+
+
+20-10-2026
+[ ] Learn machine learning workflow
+[ ] Supervised vs unsupervised learning
+[ ] Learn features and labels
+
+21-10-2026
+[ ] Train/validation/test split
+[ ] Learn data leakage
+[ ] Practice with sklearn
+
+22-10-2026
+[ ] Learn preprocessing
+[ ] Handle missing values
+[ ] Build preprocessing pipeline
+
+23-10-2026
+[ ] Linear regression theory
+[ ] Cost function
+[ ] Train model with sklearn
+
+24-10-2026
+[ ] Implement linear regression from scratch
+[ ] Implement gradient descent
+[ ] Compare with sklearn
+
+25-10-2026
+[ ] MSE
+[ ] MAE
+[ ] Understand loss functions
+
+26-10-2026
+[ ] Gradient descent
+[ ] Learning rate
+[ ] Experiment with learning rates
+
+27-10-2026
+[ ] Logistic regression
+[ ] Sigmoid function
+[ ] Binary classification
+
+28-10-2026
+[ ] Train logistic regression
+[ ] Decision boundary
+[ ] Practice classification
+
+29-10-2026
+[ ] Decision trees
+[ ] Tree splitting
+[ ] Gini impurity
+
+30-10-2026
+[ ] Random forests
+[ ] Ensemble learning
+[ ] Train random forest
+
+31-10-2026
+[ ] Gradient boosting
+[ ] Understand boosting
+[ ] Train boosting model
+
+01-11-2026
+[ ] KNN
+[ ] Naive Bayes
+[ ] Compare classifiers
+
+02-11-2026
+[ ] ML revision
+[ ] Solve 10 conceptual questions
+[ ] Practice sklearn
+
+03-11-2026
+[ ] Feature engineering
+[ ] Numerical features
+[ ] Categorical features
+
+04-11-2026
+[ ] Standardization
+[ ] Normalization
+[ ] Compare both
+
+05-11-2026
+[ ] One-hot encoding
+[ ] Label encoding
+[ ] Practice preprocessing
+
+06-11-2026
+[ ] Missing values
+[ ] Imputation
+[ ] Complete preprocessing pipeline
+
+07-11-2026
+[ ] Overfitting
+[ ] Underfitting
+[ ] Bias vs variance
+
+08-11-2026
+[ ] L1 regularization
+[ ] L2 regularization
+[ ] Experiment with regularization
+
+09-11-2026
+[ ] Preprocessing revision
+[ ] Build sklearn pipeline
+[ ] Practice
+
+10-11-2026
+[ ] Accuracy
+[ ] Precision
+[ ] Recall
+[ ] F1 score
+
+11-11-2026
+[ ] Confusion matrix
+[ ] ROC curve
+[ ] ROC-AUC
+
+12-11-2026
+[ ] Cross-validation
+[ ] K-fold CV
+[ ] Practice with sklearn
+
+13-11-2026
+[ ] Hyperparameter tuning
+[ ] GridSearchCV
+[ ] RandomizedSearchCV
+
+14-11-2026
+[ ] Compare 4 ML algorithms
+[ ] Record metrics
+[ ] Analyze results
+
+15-11-2026
+[ ] ML revision
+[ ] Solve 20 questions
+[ ] Review weak topics
+
+16-11-2026
+[ ] Start ML project
+[ ] Select dataset
+[ ] Define target
+
+17-11-2026
+[ ] Clean dataset
+[ ] Feature engineering
+[ ] Train models
+
+18-11-2026
+[ ] Evaluate models
+[ ] Tune model
+[ ] Save model
+
+19-11-2026
+[ ] Finish ML project
+[ ] Write README
+[ ] Upload to GitHub
+
+
+20-11-2026
+[ ] Install PyTorch
+[ ] Learn tensors
+[ ] Create tensors
+
+21-11-2026
+[ ] Tensor shapes
+[ ] Reshaping
+[ ] Indexing
+[ ] Slicing
+
+22-11-2026
+[ ] Tensor operations
+[ ] Matrix multiplication
+[ ] Broadcasting
+
+23-11-2026
+[ ] CPU tensors
+[ ] GPU tensors
+[ ] Move tensors between CPU/GPU
+
+24-11-2026
+[ ] Autograd
+[ ] requires_grad
+[ ] Compute simple gradients
+
+25-11-2026
+[ ] Computational graphs
+[ ] Forward pass
+[ ] Backward pass
+
+26-11-2026
+[ ] PyTorch revision
+[ ] Solve 10 tensor exercises
+[ ] Practice autograd
+
+27-11-2026
+[ ] Learn nn.Module
+[ ] Create simple neural network
+[ ] Forward pass
+
+28-11-2026
+[ ] Activation functions
+[ ] ReLU
+[ ] Sigmoid
+[ ] Softmax
+
+29-11-2026
+[ ] Loss functions
+[ ] MSE loss
+[ ] Cross entropy
+
+30-11-2026
+[ ] Backpropagation
+[ ] Understand gradients
+[ ] Practice manually
+
+01-12-2026
+[ ] Optimizers
+[ ] SGD
+[ ] Learning rate
+
+02-12-2026
+[ ] Training loop
+[ ] Forward
+[ ] Loss
+[ ] Backward
+[ ] Update
+
+03-12-2026
+[ ] DataLoader
+[ ] Dataset
+[ ] Mini-batches
+
+04-12-2026
+[ ] CNN basics
+[ ] Convolution
+[ ] Filters
+
+05-12-2026
+[ ] Pooling
+[ ] Build CNN
+[ ] Train CNN
+
+06-12-2026
+[ ] CNN revision
+[ ] Improve CNN
+[ ] Analyze results
+
+07-12-2026
+[ ] Embeddings
+[ ] Embedding layer
+[ ] Word representations
+
+08-12-2026
+[ ] Sequence data
+[ ] RNN basics
+[ ] Understand hidden state
+
+09-12-2026
+[ ] LSTM basics
+[ ] Gates
+[ ] Understand why LSTM exists
+
+10-12-2026
+[ ] PyTorch revision
+[ ] Rebuild neural network from scratch
+[ ] Practice
+
+11-12-2026
+[ ] GPU training
+[ ] CUDA tensors
+[ ] Monitor GPU usage
+
+12-12-2026
+[ ] Batch size
+[ ] Training speed
+[ ] Experiment with batch sizes
+
+13-12-2026
+[ ] Mixed precision
+[ ] FP16
+[ ] BF16
+
+14-12-2026
+[ ] Deep learning revision
+[ ] Solve conceptual questions
+[ ] Review PyTorch
+
+15-12-2026
+[ ] Start PyTorch project
+[ ] Prepare dataset
+[ ] Build model
+
+16-12-2026
+[ ] Train model
+[ ] Track loss
+[ ] Evaluate model
+
+17-12-2026
+[ ] Improve model
+[ ] Experiment with hyperparameters
+[ ] Save model
+
+18-12-2026
+[ ] Finish project
+[ ] Write README
+[ ] Add results
+
+19-12-2026
+[ ] Review PyTorch
+[ ] Review deep learning
+[ ] Clean GitHub project
+
+
+20-12-2026
+[ ] NLP basics
+[ ] Tokens
+[ ] Vocabulary
+
+21-12-2026
+[ ] Tokenization
+[ ] Word vs subword tokens
+[ ] Implement tokenizer
+
+22-12-2026
+[ ] BPE
+[ ] Understand subword tokenization
+[ ] Practice tokenization
+
+23-12-2026
+[ ] Embeddings
+[ ] Token embeddings
+[ ] Embedding dimensions
+
+24-12-2026
+[ ] Positional encoding
+[ ] Why position is needed
+[ ] Implement simple example
+
+25-12-2026
+[ ] Attention intuition
+[ ] Understand queries and context
+[ ] Work through examples
+
+26-12-2026
+[ ] Weekly revision
+[ ] Explain attention without notes
+[ ] Practice
+
+27-12-2026
+[ ] Query
+[ ] Key
+[ ] Value
+
+28-12-2026
+[ ] Scaled dot-product attention
+[ ] Softmax
+[ ] Attention scores
+
+29-12-2026
+[ ] Implement self-attention
+[ ] Test with small tensors
+[ ] Check tensor shapes
+
+30-12-2026
+[ ] Multi-head attention
+[ ] Understand multiple heads
+[ ] Implement simplified version
+
+31-12-2026
+[ ] Causal attention
+[ ] Attention masking
+[ ] Implement causal mask
+
+01-01-2027
+[ ] Transformer attention revision
+[ ] Calculate tensor dimensions
+[ ] Practice
+
+02-01-2027
+[ ] Transformer revision
+[ ] Implement attention again
+[ ] Review weak areas
+
+03-01-2027
+[ ] Transformer architecture
+[ ] Transformer block
+[ ] Understand data flow
+
+04-01-2027
+[ ] Feed-forward network
+[ ] Activation function
+[ ] Implement FFN
+
+05-01-2027
+[ ] Residual connections
+[ ] Layer normalization
+[ ] Understand why they are used
+
+06-01-2027
+[ ] Combine attention + FFN
+[ ] Build transformer block
+[ ] Test shapes
+
+07-01-2027
+[ ] Encoder
+[ ] Decoder
+[ ] Encoder vs decoder
+
+08-01-2027
+[ ] GPT-style decoder
+[ ] Causal masking
+[ ] Understand generation
+
+09-01-2027
+[ ] Transformer revision
+[ ] Draw architecture from memory
+[ ] Explain every component
+
+10-01-2027
+[ ] Implement token embeddings
+[ ] Add positional information
+[ ] Test output
+
+11-01-2027
+[ ] Implement attention
+[ ] Add causal masking
+[ ] Test attention
+
+12-01-2027
+[ ] Implement transformer block
+[ ] Add residual connections
+[ ] Add normalization
+
+13-01-2027
+[ ] Build tiny transformer
+[ ] Connect all components
+[ ] Test forward pass
+
+14-01-2027
+[ ] Train tiny transformer
+[ ] Track loss
+[ ] Fix training issues
+
+15-01-2027
+[ ] Implement text generation
+[ ] Test sampling
+[ ] Experiment with temperature
+
+16-01-2027
+[ ] Debug transformer
+[ ] Improve training
+[ ] Record results
+
+17-01-2027
+[ ] Transformer revision
+[ ] Solve 15 questions
+[ ] Review implementation
+
+18-01-2027
+[ ] Clean transformer project
+[ ] Write README
+[ ] Add architecture explanation
+
+19-01-2027
+[ ] Finish transformer project
+[ ] Upload to GitHub
+[ ] Review everything
+
+
+20-01-2027
+[ ] Learn causal language models
+[ ] Next-token prediction
+[ ] Understand training objective
+
+21-01-2027
+[ ] GPT architecture
+[ ] Decoder-only transformer
+[ ] GPT data flow
+
+22-01-2027
+[ ] Pretraining
+[ ] Training data
+[ ] Training objective
+
+23-01-2027
+[ ] Logits
+[ ] Softmax
+[ ] Probability distribution
+
+24-01-2027
+[ ] Token prediction
+[ ] Cross entropy
+[ ] Calculate simple examples
+
+25-01-2027
+[ ] Sampling
+[ ] Greedy decoding
+[ ] Understand decoding
+
+26-01-2027
+[ ] Revision
+[ ] Implement basic generation
+[ ] Test different prompts
+
+27-01-2027
+[ ] Temperature
+[ ] Experiment with temperature
+[ ] Observe output differences
+
+28-01-2027
+[ ] Top-k sampling
+[ ] Implement top-k
+[ ] Test outputs
+
+29-01-2027
+[ ] Top-p sampling
+[ ] Implement top-p
+[ ] Test outputs
+
+30-01-2027
+[ ] Hugging Face Transformers
+[ ] Install transformers
+[ ] Load tokenizer
+
+31-01-2027
+[ ] AutoTokenizer
+[ ] Tokenize text
+[ ] Inspect token IDs
+
+01-02-2027
+[ ] AutoModel
+[ ] Load pretrained model
+[ ] Inspect model
+
+02-02-2027
+[ ] Generation API
+[ ] Generate text
+[ ] Experiment with parameters
+
+03-02-2027
+[ ] Fine-tuning basics
+[ ] Understand training workflow
+[ ] Prepare small dataset
+
+04-02-2027
+[ ] LoRA
+[ ] Understand adapters
+[ ] Why LoRA is useful
+
+05-02-2027
+[ ] PEFT
+[ ] Configure LoRA
+[ ] Run small experiment
+
+06-02-2027
+[ ] Quantization basics
+[ ] Understand reduced precision
+[ ] Compare memory usage
+
+07-02-2027
+[ ] FP32
+[ ] FP16
+[ ] BF16
+[ ] Compare them
+
+08-02-2027
+[ ] INT8
+[ ] INT4
+[ ] Understand tradeoffs
+
+09-02-2027
+[ ] LLM revision
+[ ] Explain GPT architecture
+[ ] Review quantization
+
+10-02-2027
+[ ] Learn KV cache
+[ ] Understand K and V states
+[ ] Why caching helps
+
+11-02-2027
+[ ] Prefill
+[ ] Decode
+[ ] Understand both phases
+
+12-02-2027
+[ ] Autoregressive generation
+[ ] Token-by-token generation
+[ ] Measure generation time
+
+13-02-2027
+[ ] KV-cache memory
+[ ] Calculate approximate memory
+[ ] Experiment with context length
+
+14-02-2027
+[ ] LLM inference pipeline
+[ ] Prompt → tokens → model
+[ ] Model → logits → token
+
+15-02-2027
+[ ] Revision
+[ ] Draw complete inference pipeline
+[ ] Explain each step
+
+16-02-2027
+[ ] Benchmark LLM generation
+[ ] Measure latency
+[ ] Measure tokens/sec
+
+17-02-2027
+[ ] Build LLM inference script
+[ ] Add configurable generation
+[ ] Add timing
+
+18-02-2027
+[ ] Improve inference script
+[ ] Record VRAM usage
+[ ] Document results
+
+19-02-2027
+[ ] Finish LLM project
+[ ] Write README
+[ ] Upload to GitHub
+
+
+20-02-2027
+[ ] FastAPI basics
+[ ] Create first API
+[ ] Understand routes
+
+21-02-2027
+[ ] GET and POST
+[ ] Request body
+[ ] JSON responses
+
+22-02-2027
+[ ] Pydantic
+[ ] Input validation
+[ ] Error handling
+
+23-02-2027
+[ ] Async Python
+[ ] async/await
+[ ] Understand concurrent requests
+
+24-02-2027
+[ ] Create inference endpoint
+[ ] Connect model
+[ ] Return generated text
+
+25-02-2027
+[ ] API testing
+[ ] Test invalid requests
+[ ] Improve errors
+
+26-02-2027
+[ ] FastAPI revision
+[ ] Clean API structure
+[ ] Add documentation
+
+27-02-2027
+[ ] Docker basics
+[ ] Images vs containers
+[ ] Run first container
+
+28-02-2027
+[ ] Write Dockerfile
+[ ] Build image
+[ ] Run application
+
+01-03-2027
+[ ] Docker volumes
+[ ] Environment variables
+[ ] Port mapping
+
+02-03-2027
+[ ] Container networking
+[ ] Connect API and services
+[ ] Practice
+
+03-03-2027
+[ ] Docker + GPU
+[ ] NVIDIA container basics
+[ ] Test GPU access
+
+04-03-2027
+[ ] Containerize model server
+[ ] Test inference
+[ ] Check GPU usage
+
+05-03-2027
+[ ] Docker revision
+[ ] Rebuild project from scratch
+[ ] Document setup
+
+06-03-2027
+[ ] RAG fundamentals
+[ ] Documents
+[ ] Chunking
+
+07-03-2027
+[ ] Embeddings
+[ ] Generate embeddings
+[ ] Compare embedding dimensions
+
+08-03-2027
+[ ] Vector databases
+[ ] Similarity search
+[ ] Store embeddings
+
+09-03-2027
+[ ] Retrieval
+[ ] Top-k results
+[ ] Test retrieval quality
+
+10-03-2027
+[ ] RAG pipeline
+[ ] Retrieval + prompt
+[ ] Generate answer
+
+11-03-2027
+[ ] RAG API
+[ ] Add FastAPI
+[ ] Test endpoints
+
+12-03-2027
+[ ] RAG revision
+[ ] Debug retrieval
+[ ] Improve chunks
+
+13-03-2027
+[ ] Start RAG project
+[ ] Prepare documents
+[ ] Build ingestion pipeline
+
+14-03-2027
+[ ] Build retrieval
+[ ] Connect vector database
+[ ] Test results
+
+15-03-2027
+[ ] Connect LLM
+[ ] Build generation endpoint
+[ ] Test complete pipeline
+
+16-03-2027
+[ ] Dockerize RAG project
+[ ] Test container
+[ ] Fix deployment issues
+
+17-03-2027
+[ ] Performance testing
+[ ] Measure latency
+[ ] Identify bottleneck
+
+18-03-2027
+[ ] Write README
+[ ] Add architecture diagram
+[ ] Clean code
+
+19-03-2027
+[ ] Finish RAG project
+[ ] Upload to GitHub
+[ ] Review production concepts
+
+
+20-03-2027
+[ ] CPU vs GPU
+[ ] Understand parallel computation
+[ ] Identify GPU workloads
+
+21-03-2027
+[ ] GPU architecture
+[ ] SMs
+[ ] CUDA cores
+
+22-03-2027
+[ ] GPU memory
+[ ] VRAM
+[ ] Memory bandwidth
+
+23-03-2027
+[ ] FLOPs
+[ ] Compute throughput
+[ ] Calculate simple examples
+
+24-03-2027
+[ ] GPU bottlenecks
+[ ] Compute-bound vs memory-bound
+[ ] Understand examples
+
+25-03-2027
+[ ] GPU profiling basics
+[ ] Monitor GPU utilization
+[ ] Monitor VRAM
+
+26-03-2027
+[ ] GPU revision
+[ ] Explain GPU architecture
+[ ] Review terminology
+
+27-03-2027
+[ ] CUDA basics
+[ ] CUDA toolkit
+[ ] First CUDA program
+
+28-03-2027
+[ ] CUDA execution model
+[ ] Host vs device
+[ ] Kernel
+
+29-03-2027
+[ ] Threads
+[ ] Thread indexing
+[ ] Practice
+
+30-03-2027
+[ ] Blocks
+[ ] Grids
+[ ] Calculate thread indices
+
+31-03-2027
+[ ] CUDA kernels
+[ ] Write simple kernel
+[ ] Run kernel
+
+01-04-2027
+[ ] Kernel parameters
+[ ] Memory access
+[ ] Practice
+
+02-04-2027
+[ ] CUDA revision
+[ ] Rewrite simple kernel
+[ ] Review execution model
+
+03-04-2027
+[ ] Global memory
+[ ] Memory reads/writes
+[ ] Practice
+
+04-04-2027
+[ ] Shared memory
+[ ] Understand why it is faster
+[ ] Simple example
+
+05-04-2027
+[ ] Registers
+[ ] Local memory
+[ ] Memory hierarchy
+
+06-04-2027
+[ ] Warps
+[ ] Warp execution
+[ ] Understand divergence
+
+07-04-2027
+[ ] Memory coalescing
+[ ] Good vs bad access patterns
+[ ] Practice
+
+08-04-2027
+[ ] Synchronization
+[ ] __syncthreads
+[ ] Race conditions
+
+09-04-2027
+[ ] CUDA revision
+[ ] Solve conceptual questions
+[ ] Review memory hierarchy
+
+10-04-2027
+[ ] PyTorch CUDA profiling
+[ ] Measure kernel time
+[ ] Use CUDA events
+
+11-04-2027
+[ ] GPU memory profiling
+[ ] Track allocated memory
+[ ] Track reserved memory
+
+12-04-2027
+[ ] Compare CPU vs GPU
+[ ] Benchmark matrix multiplication
+[ ] Analyze results
+
+13-04-2027
+[ ] Write CUDA vector addition
+[ ] Test different sizes
+[ ] Benchmark
+
+14-04-2027
+[ ] Write CUDA matrix operation
+[ ] Test performance
+[ ] Compare with PyTorch
+
+15-04-2027
+[ ] Benchmark kernels
+[ ] Change block size
+[ ] Compare results
+
+16-04-2027
+[ ] Debug CUDA program
+[ ] Find memory errors
+[ ] Review common issues
+
+17-04-2027
+[ ] Start CUDA project
+[ ] Choose operation
+[ ] Create baseline
+
+18-04-2027
+[ ] Optimize kernel
+[ ] Benchmark
+[ ] Compare against baseline
+
+19-04-2027
+[ ] Finish CUDA project
+[ ] Document findings
+[ ] Upload to GitHub
+
+
+20-04-2027
+[ ] Learn inference latency
+[ ] Measure end-to-end latency
+[ ] Separate model and API latency
+
+21-04-2027
+[ ] Learn throughput
+[ ] Requests/sec
+[ ] Tokens/sec
+
+22-04-2027
+[ ] P50 latency
+[ ] P95 latency
+[ ] P99 latency
+
+23-04-2027
+[ ] Tokens/sec
+[ ] Input tokens
+[ ] Output tokens
+
+24-04-2027
+[ ] TTFT
+[ ] Measure first-token latency
+[ ] Understand why it matters
+
+25-04-2027
+[ ] TPOT
+[ ] Measure token generation time
+[ ] Compare workloads
+
+26-04-2027
+[ ] Build benchmark script
+[ ] Record latency
+[ ] Record throughput
+
+27-04-2027
+[ ] FP32 inference
+[ ] Measure VRAM
+[ ] Measure speed
+
+28-04-2027
+[ ] FP16 inference
+[ ] Compare with FP32
+[ ] Record results
+
+29-04-2027
+[ ] BF16 inference
+[ ] Compare with FP16
+[ ] Record results
+
+30-04-2027
+[ ] INT8 quantization
+[ ] Quantize a model
+[ ] Measure memory
+
+01-05-2027
+[ ] INT4 quantization
+[ ] Run quantized model
+[ ] Measure memory
+
+02-05-2027
+[ ] Quantization tradeoffs
+[ ] Compare quality
+[ ] Compare speed
+
+03-05-2027
+[ ] Quantization revision
+[ ] Review FP16/BF16/INT8/INT4
+[ ] Analyze benchmark
+
+04-05-2027
+[ ] KV-cache optimization
+[ ] Context length
+[ ] Memory requirements
+
+05-05-2027
+[ ] Batch inference
+[ ] Run multiple requests
+[ ] Measure throughput
+
+06-05-2027
+[ ] Dynamic batching
+[ ] Understand request queues
+[ ] Test batching
+
+07-05-2027
+[ ] Continuous batching
+[ ] Understand scheduling
+[ ] Compare with static batching
+
+08-05-2027
+[ ] Memory management
+[ ] GPU memory pressure
+[ ] OOM causes
+
+09-05-2027
+[ ] PagedAttention
+[ ] Understand the problem it solves
+[ ] Relate it to KV cache
+
+10-05-2027
+[ ] Inference optimization revision
+[ ] Explain batching
+[ ] Explain KV cache
+
+11-05-2027
+[ ] Install vLLM
+[ ] Run first model
+[ ] Test API
+
+12-05-2027
+[ ] vLLM serving
+[ ] OpenAI-compatible API
+[ ] Send requests
+
+13-05-2027
+[ ] vLLM configuration
+[ ] Model settings
+[ ] Generation settings
+
+14-05-2027
+[ ] vLLM batching
+[ ] Test concurrent requests
+[ ] Measure throughput
+
+15-05-2027
+[ ] Transformers vs vLLM
+[ ] Same model
+[ ] Same prompts
+
+16-05-2027
+[ ] Benchmark both
+[ ] Measure TTFT
+[ ] Measure tokens/sec
+
+17-05-2027
+[ ] Analyze benchmark
+[ ] GPU utilization
+[ ] VRAM usage
+[ ] Bottlenecks
+
+18-05-2027
+[ ] Build inference optimization project
+[ ] Add benchmarks
+[ ] Compare configurations
+
+19-05-2027
+[ ] Finish project
+[ ] Write README
+[ ] Upload results
+
+
+20-05-2027
+[ ] Multi-GPU basics
+[ ] Why multiple GPUs
+[ ] GPU memory scaling
+
+21-05-2027
+[ ] GPU communication
+[ ] PCIe
+[ ] GPU-to-GPU communication
+
+22-05-2027
+[ ] Data parallelism
+[ ] Understand replication
+[ ] Simple example
+
+23-05-2027
+[ ] Model parallelism
+[ ] Split model across GPUs
+[ ] Understand memory benefit
+
+24-05-2027
+[ ] Tensor parallelism
+[ ] Split tensor operations
+[ ] Understand communication
+
+25-05-2027
+[ ] Pipeline parallelism
+[ ] Split model layers
+[ ] Understand pipeline stages
+
+26-05-2027
+[ ] Distributed revision
+[ ] Compare parallelism methods
+[ ] Draw architectures
+
+27-05-2027
+[ ] Distributed inference architecture
+[ ] Request routing
+[ ] GPU workers
+
+28-05-2027
+[ ] NCCL basics
+[ ] Collective communication
+[ ] Understand all-reduce
+
+29-05-2027
+[ ] All-reduce
+[ ] Understand communication cost
+[ ] Practice conceptually
+
+30-05-2027
+[ ] GPU-to-GPU communication
+[ ] Measure communication
+[ ] Identify bottlenecks
+
+31-05-2027
+[ ] Communication bottlenecks
+[ ] Compute vs communication
+[ ] Analyze example
+
+01-06-2027
+[ ] Distributed inference revision
+[ ] Explain tensor parallelism
+[ ] Explain pipeline parallelism
+
+02-06-2027
+[ ] Review NCCL
+[ ] Review GPU communication
+[ ] Solve 10 questions
+
+03-06-2027
+[ ] Kubernetes basics
+[ ] Containers vs pods
+[ ] Create first pod
+
+04-06-2027
+[ ] Kubernetes deployments
+[ ] Create deployment
+[ ] Scale deployment
+
+05-06-2027
+[ ] Kubernetes services
+[ ] Networking basics
+[ ] Expose application
+
+06-06-2027
+[ ] GPU workloads
+[ ] GPU resource requests
+[ ] Understand scheduling
+
+07-06-2027
+[ ] Deploy model server
+[ ] Test inference
+[ ] Check logs
+
+08-06-2027
+[ ] Kubernetes revision
+[ ] Rebuild deployment
+[ ] Debug common issues
+
+09-06-2027
+[ ] Start distributed inference project
+[ ] Design architecture
+[ ] Prepare environment
+
+10-06-2027
+[ ] Multi-GPU setup
+[ ] Run model
+[ ] Verify GPUs
+
+11-06-2027
+[ ] Tensor parallelism
+[ ] Configure model
+[ ] Test inference
+
+12-06-2027
+[ ] Benchmark single GPU
+[ ] Benchmark multi-GPU
+[ ] Record results
+
+13-06-2027
+[ ] Analyze communication
+[ ] Analyze GPU utilization
+[ ] Find bottleneck
+
+14-06-2027
+[ ] Optimize configuration
+[ ] Re-run benchmark
+[ ] Compare results
+
+15-06-2027
+[ ] Improve project
+[ ] Clean code
+[ ] Add monitoring
+
+16-06-2027
+[ ] Write architecture documentation
+[ ] Add benchmark results
+[ ] Upload project
+
+17-06-2027
+[ ] Distributed systems revision
+[ ] Solve interview questions
+[ ] Review weak topics
+
+18-06-2027
+[ ] Inference system design
+[ ] Design model-serving system
+[ ] Identify bottlenecks
+
+19-06-2027
+[ ] Finish distributed project
+[ ] Final documentation
+[ ] GitHub cleanup
+
+
+20-06-2027
+[ ] Review ML project
+[ ] Improve code
+[ ] Improve README
+
+21-06-2027
+[ ] Add proper evaluation
+[ ] Add visualizations
+[ ] Document results
+
+22-06-2027
+[ ] Clean ML project
+[ ] Add requirements
+[ ] Test from fresh environment
+
+23-06-2027
+[ ] Review PyTorch project
+[ ] Improve code
+[ ] Improve README
+
+24-06-2027
+[ ] Add model evaluation
+[ ] Add training graphs
+[ ] Document architecture
+
+25-06-2027
+[ ] Clean PyTorch project
+[ ] Test project
+[ ] Upload final version
+
+26-06-2027
+[ ] Clean GitHub
+[ ] Pin important projects
+[ ] Improve profile README
+
+27-06-2027
+[ ] Review LLM/RAG project
+[ ] Improve retrieval
+[ ] Improve API
+
+28-06-2027
+[ ] Add LLM benchmarks
+[ ] Measure latency
+[ ] Measure tokens/sec
+
+29-06-2027
+[ ] Add Docker deployment
+[ ] Test complete system
+[ ] Document setup
+
+30-06-2027
+[ ] Add architecture diagram
+[ ] Add API documentation
+[ ] Clean code
+
+01-07-2027
+[ ] Review inference project
+[ ] Reproduce benchmarks
+[ ] Verify results
+
+02-07-2027
+[ ] Improve inference project
+[ ] Add more benchmark cases
+[ ] Analyze bottlenecks
+
+03-07-2027
+[ ] Finalize inference project
+[ ] Write detailed README
+[ ] Upload final version
+
+04-07-2027
+[ ] Review inference concepts
+[ ] Latency
+[ ] Throughput
+[ ] TTFT
+[ ] TPOT
+
+05-07-2027
+[ ] Review LLM concepts
+[ ] Transformers
+[ ] KV cache
+[ ] Quantization
+
+06-07-2027
+[ ] Review ML concepts
+[ ] Algorithms
+[ ] Evaluation
+[ ] Overfitting
+
+07-07-2027
+[ ] Review PyTorch
+[ ] Tensors
+[ ] Autograd
+[ ] Training
+
+08-07-2027
+[ ] Review GPU concepts
+[ ] CUDA
+[ ] Memory hierarchy
+[ ] Kernels
+
+09-07-2027
+[ ] Review system design
+[ ] Model serving
+[ ] Load balancing
+[ ] Scaling
+
+10-07-2027
+[ ] Mock technical interview
+[ ] Explain one project
+[ ] Record weak areas
+
+11-07-2027
+[ ] DSA arrays
+[ ] DSA strings
+[ ] Solve 5 problems
+
+12-07-2027
+[ ] Hashing
+[ ] Two pointers
+[ ] Solve 5 problems
+
+13-07-2027
+[ ] Stacks
+[ ] Queues
+[ ] Solve 5 problems
+
+14-07-2027
+[ ] Binary search
+[ ] Solve 5 problems
+[ ] Review mistakes
+
+15-07-2027
+[ ] Trees
+[ ] Graph basics
+[ ] Solve 3 problems
+
+16-07-2027
+[ ] DSA revision
+[ ] Solve 10 mixed problems
+[ ] Review mistakes
+
+17-07-2027
+[ ] Mock coding interview
+[ ] Mock ML interview
+[ ] Review weak areas
+
+18-07-2027
+[ ] Finalize resume
+[ ] Finalize GitHub
+[ ] Prepare project explanations
+[ ] Start applications
+
+19-07-2027
+[ ] Final roadmap review
+[ ] Review all major concepts
+[ ] Start applying to ML/AI/GenAI roles
+[ ] Continue inference specialization
