@@ -1,16 +1,16 @@
 20-09-2026
-[ ] Revise Python functions
-[ ] Practice 5 function problems
-[ ] Revise Linux navigation commands
+[x] Revise Python functions
+[x] Practice 5 function problems
+[x] Revise Linux navigation commands
 
 21-09-2026
-[ ] Revise lists, tuples and dictionaries
-[ ] Practice 5 problems
-[ ] Write 1 small Python program
+[x] Revise lists, tuples and dictionaries
+[x] Practice 5 problems
+[x] Write 1 small Python program
 
 22-09-2026
-[ ] Revise OOP basics
-[ ] Create 2 simple classes
+[x] Revise OOP basics
+[x] Create 2 simple classes
 [ ] Practice 3 OOP problems
 
 23-09-2026
